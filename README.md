@@ -1,6 +1,6 @@
- <h1 style="text-align:center;"> Асанова Екатерина Павловна </h1> 
+ Асанова Екатерина Павловна
 
- <h2 style="text-align:center;"> <span style="background-color:#000099"> г. Пермь  </span> 
+ г. Пермь 
 
 ![Фотография](assets/Foto.jpg) 
 
