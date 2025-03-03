@@ -2,7 +2,7 @@
 
  <h2 style="text-align:center;"> <span style="background-color:#000099"> г. Пермь  </span> 
 
-![Фотография](assets/Foto.png) 
+![Фотография](/assets/Foto.png) 
 
 ### <u> Образование </u>
 
@@ -14,11 +14,11 @@
 
   **Мои контакты:**
 
-  ![Логотип Mail](assets\icons8-почта-26.png) U-kat@mail.ru
+  ![Логотип Mail](/assets/icons8-почта-26.png) U-kat@mail.ru
 
- ![Логотип ВК](assets\icons8-vk-26.png) [ВК](https://vk.com/id3618702/ "Асанова (Ушакова) Екатерина") 
+ ![Логотип ВК](/assets/icons8-vk-26.png) [ВК](https://vk.com/id3618702/ "Асанова (Ушакова) Екатерина") 
 
- ![Логотип  Телеграмм](assets\icons8-телеграм-26.png) @AsanovaEkaterinaPerm
+ ![Логотип  Телеграмм](/assets/icons8-телеграм-26.png) @AsanovaEkaterinaPerm
 
 
  
