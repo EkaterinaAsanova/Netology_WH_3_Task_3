@@ -2,7 +2,7 @@
 
  <h2 style="text-align:center;"> <span style="background-color:#000099"> г. Пермь  </span> 
 
-![Фотография](/assets/Foto.png) 
+![Фотография](/assets/Foto.jpg) 
 
 ### <u> Образование </u>
 
