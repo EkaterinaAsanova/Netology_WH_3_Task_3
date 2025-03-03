@@ -1,15 +1,10 @@
  <h1 style="text-align:center;"> Асанова Екатерина Павловна </h1> 
- 
- 
- <h2 style="text-align:center;"> <span style="background-color:#000099"> г. Пермь  </span> 
 
+ <h2 style="text-align:center;"> <span style="background-color:#000099"> г. Пермь  </span> 
 
 ![Фотография](Docs\assets\Foto.png) 
 
-
 ### <u> Образование </u>
-
-
 
 |Год |Образование|Специальность|
 |-----|--------|---|
@@ -17,11 +12,9 @@
 |2023|GeekBrains |Быстрый старт.Тестировщик|
 |2024-2026|Нетология |Инжинер по тестированию. Расширенный курс|
 
-
   **Мои контакты:**
 
   ![Логотип Mail](icons8-%D0%BF%D0%BE%D1%87%D1%82%D0%B0-26.png) U-kat@mail.ru
-
 
  ![Логотип ВК](icons8-vk-26.png) [ВК](https://vk.com/id3618702/ "Асанова (Ушакова) Екатерина") 
 
