@@ -4,7 +4,7 @@
  <h2 style="text-align:center;"> <span style="background-color:#000099"> г. Пермь  </span> 
 
 
-![Фотография](Foto.png) 
+![Фотография](Docs\assets\Foto.png) 
 
 
 ### <u> Образование </u>
